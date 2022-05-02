@@ -6,7 +6,7 @@
 
 # Santiago Gallaga-Rabinowitz
 # sgallaga@uci.edu
-# 81967985
+
 
 from abc import ABC, abstractmethod
 import urllib, json
