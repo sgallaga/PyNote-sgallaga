@@ -4,7 +4,6 @@
 
 # Santiago Gallaga-Rabinowitz
 # sgallaga@uci.edu
-# 81967985
 
 import socket
 import ds_protocol
