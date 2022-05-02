@@ -6,7 +6,6 @@
 
 # Santiago Gallaga-Rabinowitz
 # sgallaga@uci.edu
-# 81967985
 
 
 from Profile import Profile, Post, DsuFileError, DsuProfileError
