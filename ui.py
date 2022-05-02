@@ -6,7 +6,6 @@
 
 # Santiago Gallaga-Rabinowitz
 # sgallaga@uci.edu
-# 81967985
 
 import a4
 from pathlib import Path
