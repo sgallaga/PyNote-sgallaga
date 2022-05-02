@@ -6,7 +6,6 @@
 
 # Santiago Gallaga-Rabinowitz
 # sgallaga@uci.edu
-# 81967985
 
 import json, time, Profile
 from collections import namedtuple
